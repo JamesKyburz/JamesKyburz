@@ -1,16 +1,15 @@
-### Hi there 👋
+### James Kyburz 👋
 
-<!--
-**JamesKyburz/JamesKyburz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Been paid to code since 1998*.
 
-Here are some ideas to get you started:
+I'm a Platform Engineer [@Dotnet Mentor](https://dotnetmentor.se/), I like free and open-source software and all things AWS Serverless / JavaScript 😊.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm working on [SAM](https://github.com/aws/serverless-application-model) tooling with [sam-expand](https://github.com/starterstack/sam-expand), and [starterstack](https://github.com/starterstack/starterstack).
+
+![GitHub Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamesKyburz&theme=blue_green)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=JamesKyburz&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesKyburz&exclude_repo=PointTPoint&layout=compact&theme=dark&hide=c%23)
+
+![Commit](./commit.gif)
