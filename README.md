@@ -2,7 +2,7 @@
 
 *Been paid to code since 1998*.
 
-I'm a Platform Engineer [@Dotnet Mentor](https://dotnetmentor.se/), I like free and open-source software and all things AWS Serverless / JavaScript 😊.
+I'm a Principal Software Engineer [@G-P](https://www.globalization-partners.com/), I like free and open-source software and all things AWS Serverless / JavaScript 😊.
 
 Currently I'm working on [SAM](https://github.com/aws/serverless-application-model) tooling with [sam-expand](https://github.com/starterstack/sam-expand), and [starterstack](https://github.com/starterstack/starterstack).
 
